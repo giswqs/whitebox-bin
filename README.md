@@ -1,0 +1,2 @@
+# wbt-bin
+WhiteboxTools binaries
